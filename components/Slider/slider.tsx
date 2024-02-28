@@ -1,8 +1,6 @@
 'use client'
 import React, { FC } from "react";
 import Card from "../Card/card";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
 import LeftArrow from "./leftArrow";
 import RightArrow from "./rightArrow";
 import Carousel from 'react-multi-carousel';
